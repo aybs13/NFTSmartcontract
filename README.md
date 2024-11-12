@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
@@ -11,3 +12,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+=======
+# NFTSmartcontract
+>>>>>>> eb98f8fbfa8b33d96868d59ef7c0d22494f664a5
